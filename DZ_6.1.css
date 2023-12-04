@@ -1,0 +1,14 @@
+h1{
+    background-color: lightgray;
+    font-family: Arial;
+    text-align: center;
+}
+h4{
+    text-decoration: underline;
+}
+button{
+    background-color: lightgray;
+    text-align: center;
+    width: 100px;
+    height: 50px;
+}
